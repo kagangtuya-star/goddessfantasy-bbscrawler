@@ -17,7 +17,8 @@
 
 ### 1. 配置 Cookie
 
-从浏览器获取论坛登录后的 Cookie，保存到 `Cookie.txt`。
+按f12打开控制台，从浏览器获取论坛登录后的 Cookie，保存到 `Cookie.txt`。
+![PixPin_2026-01-02_18-55-21](https://github.com/user-attachments/assets/43cdc6bb-19e8-4f50-927f-ceb857275c50)
 
 ### 2. 爬取帖子目录
 
