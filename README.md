@@ -56,3 +56,6 @@ pip install requests lxml
 
 - Cookie 过期需重新获取
 - 爬取间隔 1 秒，避免频繁请求
+
+## 鸣谢
+- 调零提供的原始思路与示例代码
