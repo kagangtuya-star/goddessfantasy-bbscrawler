@@ -17,7 +17,8 @@
 
 ### 1. 配置 Cookie
 
-从浏览器获取论坛登录后的 Cookie，保存到 `Cookie.txt`。
+按f12打开控制台，从浏览器获取论坛登录后的 Cookie，保存到 `Cookie.txt`。
+![PixPin_2026-01-02_18-55-21](https://github.com/user-attachments/assets/43cdc6bb-19e8-4f50-927f-ceb857275c50)
 
 ### 2. 爬取帖子目录
 
@@ -55,3 +56,6 @@ pip install requests lxml
 
 - Cookie 过期需重新获取
 - 爬取间隔 1 秒，避免频繁请求
+
+## 鸣谢
+- 调零提供的原始思路与示例代码
